@@ -18,9 +18,9 @@
 #nav th {
  
   background-color: #343981;
-  padding: 8px;
-  text-align: left;
-  border: 1px solid #000000;
+  padding-left: 8px;
+  text-align: center;
+  border: 2px solid #000000;
   color:aliceblue
 }
 #nav td {
@@ -28,5 +28,36 @@
   background-color: #eeeff3;
   padding: 8px;
   text-align: left;
+  border: 1px solid #000000;
+}
+
+#nav2 {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #000000;
+}
+
+#nav2 tr {
+ 
+  background-color: #d8d9e3;
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #000000;
+  color:aliceblue
+}
+
+#nav2 td {
+ 
+  background-color: #eeeff3;
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #000000;
+}
+
+#emoji {
+  background-color: white;
+  margin: 15px;
+  border-collapse: collapse;
+  width: 20px;
   border: 1px solid #000000;
 }
